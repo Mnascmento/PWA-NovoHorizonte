@@ -1,6 +1,7 @@
 # 📱 Colégio Novo Horizonte - Progressive Web App (PWA)
 
-Pprojeto PWA do **Colégio Novo Horizonte**, um aplicativo moderno e responsivo desenvolvido com **React**, **Node.js** e **JavaScript**, com foco em acessibilidade, usabilidade e performance. Este PWA permite login com Google, acesso ao perfil do usuário e uma experiência mobile semelhante a apps nativos.
+#Em construção
+Projeto PWA do **Colégio Novo Horizonte**, um aplicativo moderno e responsivo desenvolvido com **React**, **Node.js** e **JavaScript**, com foco em acessibilidade, usabilidade e performance. Este PWA permite login com Google, acesso ao perfil do usuário e uma experiência mobile semelhante a apps nativos.
 
 ## 🚀 Funcionalidades
 
